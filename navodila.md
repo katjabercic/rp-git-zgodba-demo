@@ -13,3 +13,5 @@
    Sedaj napiši
    `git commit -m "Moj prvi commit!"`
    in glej konzolo za nadaljnja navodila.
+
+42
